@@ -33,13 +33,6 @@
 
 ---
 
-## 🏆 Contribuições Recentes
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WelliksonWester&theme=radical)](https://git.io/streak-stats)
-
----
-
-
 ## 🤝 Gostaria de falar comigo? Envie uma mensagem pelos canais abaixo. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welliksonwester/)
