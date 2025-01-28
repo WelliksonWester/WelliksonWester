@@ -5,7 +5,7 @@ About me:
 - 👨‍🏫 I work as a Billing Analyst
 - 👨‍🔧 I'm studying Software Engineering at Univag
 - 👨‍💻 I've a degree in Agribusiness Management
-- 📊 I have a diploma in Business Administration
+- 📊 I hold a Technical Diploma in Business Administration
 - 🎓 Talk to me in English or Portuguese
 - 😊 Pronouns: He/Him
 - ⚡ Fun fact: In my veins runs the thrill of FPS games and the rush of clutch moments!
