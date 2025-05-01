@@ -7,7 +7,6 @@ About me:
 - 🎓 Graduated in **Agribusiness Management** and **Business Administration Technician**  
 - 🌱 I'm passionate about technology, logic, and building useful things from scratch  
 - 🔄 I'm shifting careers from business to **tech**, with a focus on back-end development  
-- 🧠 I'm neurodivergent (TDAH), which leads me to find creative ways to learn and teach  
 - 🎮 In my free time, I dive into FPS games and love clutch moments  
 - 🌎 Languages: **Portuguese (native)** | **English (intermediate/advanced)**  
 
