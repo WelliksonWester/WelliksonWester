@@ -2,13 +2,14 @@
 
 About me:
 
-- 👨‍🏫 I work as a Billing Analyst
-- 👨‍🔧 I'm studying Software Engineering at Univag
-- 👨‍💻 I've a degree in Agribusiness Management
-- 📊 I hold a Technical Diploma in Business Administration
-- 🎓 Talk to me in English or Portuguese
-- 😊 Pronouns: He/Him
-- ⚡ Fun fact: In my veins runs the thrill of FPS games and the rush of clutch moments!
+- 📊 I currently work as a **Billing Analyst**  
+- 💻 I'm pursuing a **Software Engineering degree** at Univag  
+- 🎓 Graduated in **Agribusiness Management** and **Business Administration Technician**  
+- 🌱 I'm passionate about technology, logic, and building useful things from scratch  
+- 🔄 I'm shifting careers from business to **tech**, with a focus on back-end development  
+- 🧠 I'm neurodivergent (TDAH), which leads me to find creative ways to learn and teach  
+- 🎮 In my free time, I dive into FPS games and love clutch moments  
+- 🌎 Languages: **Portuguese (native)** | **English (intermediate/advanced)**  
 
 Tools I work with:
 
