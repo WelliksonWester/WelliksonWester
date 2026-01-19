@@ -32,11 +32,11 @@ My GitHub Stats
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=WelliksonWester&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=WelliksonWester&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=radical"
     height="165"
   />
 </div>
