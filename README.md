@@ -11,12 +11,12 @@ About me:
 
 Tools I work with:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
+- ☕ Java  
+- 🐬 MySQL / MariaDB  
+- 🦫 DBeaver  
+- 🐙 Git & GitHub  
+- 🧩 Eclipse / VS Code  
+- 🐍 Python  
 
 How to reach me: 
 
