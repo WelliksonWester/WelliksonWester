@@ -28,9 +28,16 @@ How to reach me:
 ---
 
 
-## My GitHub Stats
+My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WelliksonWester&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=radical)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=WelliksonWester&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=radical"
+    height="165"
+  />
+</div>
 
