@@ -2,12 +2,12 @@
 
 About me:
 
-- 🧠 Building my career in **Quantitative Finance**, blending **Software Engineering** with **Data Science**, **Financial Modeling**, and **Risk Management**.
-- 🎯 Currently working as a **Billing Analyst**, while pursuing a **Software Engineering degree** at Univag.
-- 🔄 Career transition from **Business** to **Tech**, with a focus on **Quantitative Trading Systems**, **Backtesting**, and **Risk Modeling**.
-- 🎓 Background in **Agribusiness Management** and **Business Administration Technician**.
-- 🌱 Passionate about **technology, logic, data**, and solving complex problems through code and models.
-- 🌎 Languages: **Portuguese (native)** | **English (intermediate/advanced — currently improving daily)**
+- 🧠 Building my career in technology, blending Software Engineering with data-driven thinking and business background.
+- 🎯 Currently working as a Billing Analyst while pursuing a Software Engineering degree at Univag.
+- 🔄 Career transition from Business to Tech, with interests in backend development, data, and analytical systems.
+- 🌾 Background in Agribusiness Management and Business Administration Technician.
+- 🌱 Passionate about technology, logic, data, and solving complex problems through code and models.
+- 🌍 Languages: Portuguese (native) | English (intermediate/advanced — currently improving daily)
 
 Tools I work with:
 
