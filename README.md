@@ -31,12 +31,11 @@ How to reach me:
 My GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=WelliksonWester&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=radical"
-    height="165"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WelliksonWester&theme=dark&show_icons=true&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelliksonWester&layout=compact&theme=dark&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WelliksonWester&theme=dark&hide_border=true" />
+</div>
+
