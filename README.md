@@ -1,6 +1,6 @@
 # 😊 HI! I'm Wellikson Wester!
 
-About me:
+About me: 
 
 - 🧠 Building my career in technology, blending Software Engineering with data-driven thinking and business background.
 - 🎯 Currently working as a Billing Analyst while pursuing a Software Engineering degree at Univag.
