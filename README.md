@@ -20,10 +20,17 @@ Tools I work with:
 
 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welliksonwester/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellikson.dev@gmail.com)
-[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eaewester/)
+<a href="https://www.linkedin.com/in/welliksonwester/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
+<a href="mailto:wellikson.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.instagram.com/eaewester/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 ---
 
