@@ -4,7 +4,6 @@ About me:
 
 - 🧠 Building my career in technology, blending Software Engineering with data-driven thinking and business background.
 - 🎯 Currently working as a **Systems Analyst** while pursuing a Software Engineering degree at Univag.
-- 🔄 Successfully transitioning from Business to Tech, with focus on backend development, analytical systems, and data.
 - 🌾 Background in Agribusiness Management and Business Administration Technician.
 - 🌱 Passionate about technology, logic, data, and solving complex problems through code and models.
 - 🌍 Languages: Portuguese (native) | English (intermediate/advanced — currently improving daily)
